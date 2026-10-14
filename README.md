@@ -1,2 +1,0 @@
-# newportpolio
-personal portfolio 
